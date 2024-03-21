@@ -178,7 +178,7 @@ def oo (li, jing):
     right(jing)
     pensize(5)
     oo(-60,110)
-    fd(140)
+    fd(130)
     oo(-28,96)
     fd(140)
     oo(9,89)
