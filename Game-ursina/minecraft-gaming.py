@@ -28,7 +28,7 @@ def input(key):
                     color=color.white,
                     model='cube',
                     position=box.position + mouse.normal,
-                    texture='assets\grass',
+                    texture='assets\/tijolo',
                     parent=scene,
                     origin_y=0.5
                 )
